@@ -17,11 +17,11 @@
 - Accessible for self-taught learners and global communities
 
 ## 🌐 Live Demo
-- Try the app directly in Google AI Studio (if shared):  
-  [AI Business Plan Generator Demo]([your-demo-link-here](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%2210P07guf0USY4BpJvYtMpDCvQ4PYzHygT%22%5D,%22action%22:%22open%22,%22userId%22:%22118212216771512353167%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing))
-> Requires Google sign-in to view the demo.
+- Try the app directly in Google AI Studio:  
+  [AI Business Plan Generator Demo](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%2210P07guf6UYS4BpJvYtMpDCvQ4PYzhyIgT%22%5D,%22action%22:%22open%22,%22userId%22:%2211812216771512353167%22,%22resourceKeys%22:%7B%7D&usp=sharing)  
+  > Requires Google sign-in to view the demo.
 
-## 🖥️ Run Locally
+## 💻 Run Locally
 - **Prerequisite:** Node.js installed
 - **Steps:**
   1. Install dependencies:  
