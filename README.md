@@ -4,17 +4,22 @@
   <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-## 📌 Project Overview
+## 📋 Project Overview
 - AI-powered business plan generator built with Google Gemini
+- Developed in Google AI Studio and deployed via GitHub
 - Designed for Vardin Labs™ — a faith-driven AI Virtual Laboratory
-- Helps creators and researchers generate ethical, structured business plans
-- Built in Google AI Studio and manually deployed to GitHub
+- Helps creators, researchers, and entrepreneurs generate ethical, structured business plans
 
-## 🔧 Features
-- Simple input form for describing your AI lab concept
+## ✨ Features
+- Input form to describe your AI lab concept
 - Generates full business plans using Gemini
 - Built-in ethical commerce logic
-- Ideal for self-taught learners and global communities
+- Accessible for self-taught learners and global communities
+
+## 🌐 Live Demo
+- Try the app directly in Google AI Studio (if shared):  
+  [AI Business Plan Generator Demo]([your-demo-link-here](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%2210P07guf0USY4BpJvYtMpDCvQ4PYzHygT%22%5D,%22action%22:%22open%22,%22userId%22:%22118212216771512353167%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing))
+> Requires Google sign-in to view the demo.
 
 ## 🖥️ Run Locally
 - **Prerequisite:** Node.js installed
@@ -31,10 +36,6 @@
      ```
      npm run dev
      ```
-
-## 🌐 AI Studio Link
-- View the original app in Google AI Studio:  
-  [https://ai.studio/apps/drive/10P07guf0USY4BpJvYtMpDCvQ4PYzHygT](https://ai.studio/apps/drive/10P07guf0USY4BpJvYtMpDCvQ4PYzHygT)
 
 ## 👤 Author
 - **Kervin Pillay Vardin**
